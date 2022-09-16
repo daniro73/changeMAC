@@ -1,0 +1,34 @@
+{
+  "name": "mac-changer",
+  "version": "1.0.0",
+  "description": "create or modify linux mac adress\u001b[D\u001b[D\u001b[D\u001b[Ddress",
+  "main": "changeMAC.js",
+  "scripts": {
+    "test": "node changeMAC.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniro73/changeMAC.git"
+  },
+  "keywords": [
+    "change",
+    "mac",
+    "\u001b[D\u001b[D\u001b[D\u001b[Dinterface'",
+    "mac",
+    "address\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ds",
+    "mac",
+    "address"
+  ],
+  "author": "daniro73",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniro73/changeMAC/issues"
+  },
+  "homepage": "https://github.com/daniro73/changeMAC#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^16.0.2",
+    "randexp": "^0.5.3",
+    "util": "^0.12.4"
+  }
+}
