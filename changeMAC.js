@@ -37,7 +37,7 @@ class MAC {
 
 module.exports = MAC;
 
-
+/*
 async function test(_interface, mac_address) {
 
     require("dotenv").config();
@@ -54,3 +54,4 @@ async function test(_interface, mac_address) {
 
 test().then(data => console.log(data)).catch(err => console.log(err));
 //test("ens33", "00:12:4f:ea:36:02").then(data => console.log(data)).catch(err => console.log(err));
+*/
